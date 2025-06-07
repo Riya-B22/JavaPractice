@@ -1,0 +1,11 @@
+Binary search:::::
+-> also known as logarithmic search or half interval search
+-> Works on sorted array.
+-> It works by repeatedly splitting the list into half as the portion
+that could contain the item, until you've narrowed down the possible locations to just one.
+
+
+
+
+
+

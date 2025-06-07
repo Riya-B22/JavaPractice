@@ -1,10 +1,10 @@
-package org.dailycodebuffer.SearchingAlgos;
+package org.codingPrograms_25.SearchingAlgos;
 
 import java.util.Scanner;
 // time complexity: O(log n), space complexity O(1)
 public class BinarySearch {
     public static int binarySearch(int arr[],int num){
-        int low=0,high=arr.length-1;
+        int low=0,  high=arr.length-1;
         while(low <= high){
             int mid=(low+high)/2;
             if(arr[mid] == num){

@@ -1,0 +1,8 @@
+Quick Sort:::::
+-> Divide and conquer algorithm
+-> Time Complexity (avg) O(N log N)
+-> Time Complexity (worst) O(N^2)
+-> Space Complexity  O(N)
+-> In place
+-> stable
+-> Also called as Partition exchange sort

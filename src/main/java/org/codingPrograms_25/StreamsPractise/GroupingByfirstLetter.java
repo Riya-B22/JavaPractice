@@ -1,4 +1,4 @@
-package org.dailycodebuffer.StreamsPractise;
+package org.codingPrograms_25.StreamsPractise;
 
 import java.util.Arrays;
 import java.util.List;
