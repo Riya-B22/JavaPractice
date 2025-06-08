@@ -1,4 +1,4 @@
-package org.codingPrograms_25.StreamsIntProbs.StringProblems;
+package org.codingPrograms_25.StreamsIntProbs.StringProblems.Basics;
 
 import java.util.Arrays;
 import java.util.List;
